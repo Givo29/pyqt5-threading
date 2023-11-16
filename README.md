@@ -8,4 +8,4 @@ We eventually stumbled across a few articles (listed below) that had correct met
 **Reference:** 
  * https://www.learnpyqt.com/courses/concurrent-execution/multithreading-pyqt-applications-qthreadpool/  
  * https://stackoverflow.com/questions/11426335/qthread-execution-freezes-my-gui
- * https://blog.qt.io/blog/2010/06/17/youre-doing-it-wrong/ ...which dead links to where they promise the real information is. Here is the referenced blog post. https://www.qt.io/blog/2006/12/04/threading-without-the-headache
+ * https://blog.qt.io/blog/2010/06/17/youre-doing-it-wrong/ ...which dead links to where they promise the real information is. [Here is the referenced blog post on archive.org](https://web.archive.org/web/20200128030120/https://www.qt.io/blog/2006/12/04/threading-without-the-headache)
