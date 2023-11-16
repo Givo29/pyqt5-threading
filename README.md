@@ -1,7 +1,7 @@
 # PyQT5 Threading The Right Way
 
 ### History
-After researching PyQT5 threading while updating a simple app with [cleary](https://github.com/cleary), we found that most of the documantation regarding this topic is incorrect, including official documentation.
+After researching PyQT5 threading while updating a simple app with [cleary](https://github.com/cleary), we found that most of the documentation regarding this topic is incorrect, including official documentation.
 
 We eventually stumbled across a few articles (listed below) that had correct methods and documentation as to how this works.
 
